@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Jop Heijnens, a student at Fontys ICT.
+Here i will put my recent projects.
 <!--
 **zJopHeijnens/zJopHeijnens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
